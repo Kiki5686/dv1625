@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 chnage
+=======
+chnages
+changes
+>>>>>>> otherversion
