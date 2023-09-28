@@ -3,5 +3,5 @@ changes
 changes
 <<<<<<< HEAD
 =======
-changess
+changes
 >>>>>>> otherversion
