@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-chnage
+changes
 =======
-chnages
+changes
 changes
 >>>>>>> otherversion
