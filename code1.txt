@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-changes
-=======
 changes
 changes
->>>>>>> otherversion
+changes
